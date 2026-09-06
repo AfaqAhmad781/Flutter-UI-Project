@@ -1,6 +1,7 @@
 # Flutter UI Project
+I am actively learning Flutter from Sir Asif Taj on youtube through his flutter bootcamp playlist.
 
-A Flutter UI project created to practice and demonstrate modern
+I created a Flutter UI project created to practice and demonstrate modern
 mobile application interface design.
 
 ## Features
@@ -13,7 +14,6 @@ mobile application interface design.
 ## Built With
 
 - Flutter
-- Dart
 
 
 ## Getting Started
