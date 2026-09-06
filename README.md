@@ -1,4 +1,4 @@
-# Flutter UI Project
+# Flutter UI (Login Page)
 I am actively learning Flutter from Sir Asif Taj on youtube through his flutter bootcamp playlist.
 
 I created a Flutter UI project created to practice and demonstrate modern
